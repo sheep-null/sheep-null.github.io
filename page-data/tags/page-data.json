@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-tags-js",
+    "path": "/tags/",
+    "result": {"data":{"allMarkdownRemark":{"group":[{"fieldValue":"書評","totalCount":1},{"fieldValue":"村上春樹","totalCount":1}]}},"pageContext":{}},
+    "staticQueryHashes": ["2084820230"]}
