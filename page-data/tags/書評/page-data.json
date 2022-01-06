@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-tags-js",
     "path": "/tags/書評/",
-    "result": {"data":{"allMarkdownRemark":{"totalCount":3,"edges":[{"node":{"fields":{"slug":"/20210809/"},"frontmatter":{"title":"論破っていったいどうやるの？ - ウェストン『論証のルールブック』雑感 -"}}},{"node":{"fields":{"slug":"/20210802/"},"frontmatter":{"title":"モラルとは違うところへ - モーム『月と六ペンス』雑感 -"}}},{"node":{"fields":{"slug":"/20210726/"},"frontmatter":{"title":"「不毛な」伝達への試み - 村上春樹『風の歌を聴け』雑感 -"}}}]}},"pageContext":{"tag":"書評"}},
+    "result": {"data":{"allMarkdownRemark":{"totalCount":4,"edges":[{"node":{"fields":{"slug":"/20210816/"},"frontmatter":{"title":"優れたひとになってもよいのか？ - 佐藤『心とからだの倫理学』雑感 -"}}},{"node":{"fields":{"slug":"/20210809/"},"frontmatter":{"title":"論破っていったいどうやるの？ - ウェストン『論証のルールブック』雑感 -"}}},{"node":{"fields":{"slug":"/20210802/"},"frontmatter":{"title":"モラルとは違うところへ - モーム『月と六ペンス』雑感 -"}}},{"node":{"fields":{"slug":"/20210726/"},"frontmatter":{"title":"「不毛な」伝達への試み - 村上春樹『風の歌を聴け』雑感 -"}}}]}},"pageContext":{"tag":"書評"}},
     "staticQueryHashes": ["2084820230"]}
