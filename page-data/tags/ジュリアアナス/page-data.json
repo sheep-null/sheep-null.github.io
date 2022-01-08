@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-tags-js",
     "path": "/tags/ジュリアアナス/",
-    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/20210830/"},"frontmatter":{"title":"大人のための倫理学 - アナス『徳は知なり』（春秋社）雑感 -"}}}]}},"pageContext":{"tag":"ジュリアアナス"}},
+    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/6/"},"frontmatter":{"title":"大人のための倫理学 - アナス『徳は知なり』（春秋社）雑感 -"}}}]}},"pageContext":{"tag":"ジュリアアナス"}},
     "staticQueryHashes": ["2084820230"]}

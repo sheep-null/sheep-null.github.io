@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-tags-js",
     "path": "/tags/サマセットモーム/",
-    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/20210802/"},"frontmatter":{"title":"モラルとは違うところへ - モーム『月と六ペンス』雑感 -"}}}]}},"pageContext":{"tag":"サマセットモーム"}},
+    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/2/"},"frontmatter":{"title":"モラルとは違うところへ - モーム『月と六ペンス』雑感 -"}}}]}},"pageContext":{"tag":"サマセットモーム"}},
     "staticQueryHashes": ["2084820230"]}
