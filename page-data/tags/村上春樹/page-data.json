@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-tags-js",
     "path": "/tags/村上春樹/",
-    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/20210726/"},"frontmatter":{"title":"「不毛な」伝達への試み - 村上春樹『風の歌を聴け』雑感 -"}}}]}},"pageContext":{"tag":"村上春樹"}},
+    "result": {"data":{"allMarkdownRemark":{"totalCount":3,"edges":[{"node":{"fields":{"slug":"/20210920/"},"frontmatter":{"title":"あっちこっちから出口へ - 村上春樹『1973年のピンボール』雑感 -"}}},{"node":{"fields":{"slug":"/20210913/"},"frontmatter":{"title":"向き合わない男たち - 村上春樹『女のいない男たち』雑感 -"}}},{"node":{"fields":{"slug":"/20210726/"},"frontmatter":{"title":"「不毛な」伝達への試み - 村上春樹『風の歌を聴け』雑感 -"}}}]}},"pageContext":{"tag":"村上春樹"}},
     "staticQueryHashes": ["2084820230"]}

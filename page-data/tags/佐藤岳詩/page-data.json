@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-tags-js",
     "path": "/tags/佐藤岳詩/",
-    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/20210816/"},"frontmatter":{"title":"優れたひとになってもよいのか？ - 佐藤『心とからだの倫理学』雑感 -"}}}]}},"pageContext":{"tag":"佐藤岳詩"}},
+    "result": {"data":{"allMarkdownRemark":{"totalCount":2,"edges":[{"node":{"fields":{"slug":"/20210927/"},"frontmatter":{"title":"倫理学の回り道、あるいは王道 - 佐藤岳詩『倫理の問題とは何か』雑感 -"}}},{"node":{"fields":{"slug":"/20210816/"},"frontmatter":{"title":"優れたひとになってもよいのか？ - 佐藤『心とからだの倫理学』雑感 -"}}}]}},"pageContext":{"tag":"佐藤岳詩"}},
     "staticQueryHashes": ["2084820230"]}

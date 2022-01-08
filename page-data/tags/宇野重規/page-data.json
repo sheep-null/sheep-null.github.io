@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tags-js",
+    "path": "/tags/宇野重規/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/20211004/"},"frontmatter":{"title":"政治への参加と責任 - 宇野重規『民主主義とは何か』雑感 -"}}}]}},"pageContext":{"tag":"宇野重規"}},
+    "staticQueryHashes": ["2084820230"]}
