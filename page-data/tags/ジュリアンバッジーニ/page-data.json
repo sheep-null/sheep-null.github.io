@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tags-js",
+    "path": "/tags/ジュリアンバッジーニ/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/23/"},"frontmatter":{"title":"哲学を組み立て、分解する - バッジーニ、フォスル『哲学の道具箱』（共立出版）雑感 -"}}}]}},"pageContext":{"tag":"ジュリアンバッジーニ"}},
+    "staticQueryHashes": ["2084820230"]}
