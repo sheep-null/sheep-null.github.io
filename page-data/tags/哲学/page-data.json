@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-tags-js",
     "path": "/tags/哲学/",
-    "result": {"data":{"allMarkdownRemark":{"totalCount":2,"edges":[{"node":{"fields":{"slug":"/13/"},"frontmatter":{"title":"幸せっていったいなんなのさ - 森村進『幸福とは何か』雑感 -"}}},{"node":{"fields":{"slug":"/12/"},"frontmatter":{"title":"今後、哲学していくために - 次田瞬『人間本性を哲学する』雑感 -"}}}]}},"pageContext":{"tag":"哲学"}},
+    "result": {"data":{"allMarkdownRemark":{"totalCount":4,"edges":[{"node":{"fields":{"slug":"/22/"},"frontmatter":{"title":"真実を語ろうとすること - プラトン『ソクラテスの弁明』（光文社古典新訳文庫）雑感 -"}}},{"node":{"fields":{"slug":"/18/"},"frontmatter":{"title":"誤謬を繰り返さないために - ニーチェ『偶像の黄昏』雑感 -"}}},{"node":{"fields":{"slug":"/13/"},"frontmatter":{"title":"幸せっていったいなんなのさ - 森村進『幸福とは何か』雑感 -"}}},{"node":{"fields":{"slug":"/12/"},"frontmatter":{"title":"今後、哲学していくために - 次田瞬『人間本性を哲学する』雑感 -"}}}]}},"pageContext":{"tag":"哲学"}},
     "staticQueryHashes": ["2084820230"]}

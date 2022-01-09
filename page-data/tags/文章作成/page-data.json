@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tags-js",
+    "path": "/tags/文章作成/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/17/"},"frontmatter":{"title":"読み手にわかりやすい文章を - 本多勝一『〈新版〉日本語の作文技術』（朝日新聞出版）雑感 -"}}}]}},"pageContext":{"tag":"文章作成"}},
+    "staticQueryHashes": ["2084820230"]}

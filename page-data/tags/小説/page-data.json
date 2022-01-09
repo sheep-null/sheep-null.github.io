@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tags-js",
+    "path": "/tags/小説/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/14/"},"frontmatter":{"title":"もう若くないのだ - 村上春樹『羊をめぐる冒険』雑感 -"}}}]}},"pageContext":{"tag":"小説"}},
+    "staticQueryHashes": ["2084820230"]}

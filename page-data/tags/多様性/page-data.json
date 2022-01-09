@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tags-js",
+    "path": "/tags/多様性/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/21/"},"frontmatter":{"title":"見えづらい多様性と向き合うために - 村中直人『ニューロダイバーシティの教科書: 多様性尊重社会へのキーワード』 金子書房雑感 -"}}}]}},"pageContext":{"tag":"多様性"}},
+    "staticQueryHashes": ["2084820230"]}

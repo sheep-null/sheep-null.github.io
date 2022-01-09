@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tags-js",
+    "path": "/tags/道徳/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/19/"},"frontmatter":{"title":"道徳を実験する - 亀田達也『モラルの起源』（岩波新書）雑感 -"}}}]}},"pageContext":{"tag":"道徳"}},
+    "staticQueryHashes": ["2084820230"]}

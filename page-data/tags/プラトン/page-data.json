@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tags-js",
+    "path": "/tags/プラトン/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/22/"},"frontmatter":{"title":"真実を語ろうとすること - プラトン『ソクラテスの弁明』（光文社古典新訳文庫）雑感 -"}}}]}},"pageContext":{"tag":"プラトン"}},
+    "staticQueryHashes": ["2084820230"]}
